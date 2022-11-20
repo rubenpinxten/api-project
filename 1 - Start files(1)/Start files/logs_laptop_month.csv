@@ -1,0 +1,167 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Error,8/25/2022 9:23:56 AM,Microsoft-Windows-PerfNet,2004,None,Unable to open the Server service performance object. The first four bytes (DWORD) of the Data section contains the status code.
+Error,8/24/2022 6:24:50 PM,Application Error,1000,(100),"Faulting application name: SearchApp.exe, version: 10.0.19041.1889, time stamp: 0xc31668f2
+Faulting module name: KERNELBASE.dll, version: 10.0.19041.1889, time stamp: 0xe9ede6d6
+Exception code: 0xc0000602
+Fault offset: 0x000000000010fb62
+Faulting process id: 0x2e84
+Faulting application start time: 0x01d8b6d8c2123e1f
+Faulting application path: C:\windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+Faulting module path: C:\windows\System32\KERNELBASE.dll
+Report Id: b0115690-90f7-4da7-8b0c-9da307967149
+Faulting package full name: Microsoft.Windows.Search_1.14.6.19041_neutral_neutral_cw5n1h2txyewy
+Faulting package-relative application ID: CortanaUI"
+Error,8/23/2022 12:11:45 PM,Microsoft-Windows-PerfNet,2004,None,Unable to open the Server service performance object. The first four bytes (DWORD) of the Data section contains the status code.
+Error,8/23/2022 12:01:52 PM,MSOLAP$SQL_BRENT_P_M,87,(289),Failed to find cryptographic key file on the file system.
+Error,8/23/2022 11:49:59 AM,MSOLAP$SQL_BRENT_P,87,(289),Failed to find cryptographic key file on the file system.
+Error,8/23/2022 11:49:56 AM,Microsoft-Windows-PerfNet,2004,None,Unable to open the Server service performance object. The first four bytes (DWORD) of the Data section contains the status code.
+Error,8/23/2022 11:49:51 AM,SQLISPackage150,0,None,"The description for Event ID 0 from source SQLISPackage150 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+   bij System.Security.Principal.NTAccount.Translate(IdentityReferenceCollection sourceAccounts, Type targetType, Boolean forceSuccess)
+   bij System.Security.Principal.NTAccount.Translate(Type targetType)
+   bij System.Security.AccessControl.CommonObjectSecurity.ModifyAccess(AccessControlModification modification, AccessRule rule, Boolean& modified)
+   bij System.Security.AccessControl.CommonObjectSecurity.AddAccessRule(AccessRule rule)
+   bij Microsoft.SqlServer.IntegrationServices.RuntimeTelemetry.XEventTelemetryService.CreateDirectoryWithAccess(String telemetryDirectory)
+   bij Microsoft.SqlServer.IntegrationServices.RuntimeTelemetry.XEventTelemetryService.CreateTelemetryDirectory()
+
+The message resource is present but the message was not found in the message table
+"
+Error,8/23/2022 11:49:51 AM,SQLISPackage150,0,None,"The description for Event ID 0 from source SQLISPackage150 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+   bij System.Security.Principal.NTAccount.Translate(IdentityReferenceCollection sourceAccounts, Type targetType, Boolean forceSuccess)
+   bij System.Security.Principal.NTAccount.Translate(Type targetType)
+   bij System.Security.AccessControl.CommonObjectSecurity.ModifyAccess(AccessControlModification modification, AccessRule rule, Boolean& modified)
+   bij System.Security.AccessControl.CommonObjectSecurity.AddAccessRule(AccessRule rule)
+   bij Microsoft.SqlServer.IntegrationServices.RuntimeTelemetry.XEventTelemetryService.CreateDirectoryWithAccess(String telemetryDirectory)
+   bij Microsoft.SqlServer.IntegrationServices.RuntimeTelemetry.XEventTelemetryService.CreateTelemetryDirectory()
+
+The message resource is present but the message was not found in the message table
+"
+Error,8/23/2022 10:16:15 AM,Microsoft-Windows-User Profiles Service,1552,None,"User hive is loaded by another process (Registry Lock) Process name: C:\Windows\System32\svchost.exe, PID: 9876, ProfSvc PID: 2656."
+Error,8/23/2022 10:16:15 AM,Microsoft-Windows-User Profiles Service,1552,None,"User hive is loaded by another process (Registry Lock) Process name: C:\Program Files\Avast Software\Avast\aswToolsSvc.exe, PID: 5460, ProfSvc PID: 2656."
+Error,8/23/2022 10:14:33 AM,VSS,8193,None,"Volume Shadow Copy Service error: Unexpected error calling routine CoCreateInstance.  hr = 0x8007045b, Systeem wordt afgesloten.
+. "
+Error,8/23/2022 10:14:33 AM,VSS,13,None,"Volume Shadow Copy Service information: The COM Server with CLSID {4e14fba2-2e22-11d1-9964-00c04fbbb345} and name CEventSystem cannot be started. [0x8007045b, Systeem wordt afgesloten.
+] "
+Error,8/23/2022 10:14:33 AM,VSS,8193,None,"Volume Shadow Copy Service error: Unexpected error calling routine CoCreateInstance.  hr = 0x8007045b, Systeem wordt afgesloten.
+. "
+Error,8/23/2022 10:14:33 AM,VSS,13,None,"Volume Shadow Copy Service information: The COM Server with CLSID {4e14fba2-2e22-11d1-9964-00c04fbbb345} and name CEventSystem cannot be started. [0x8007045b, Systeem wordt afgesloten.
+] "
+Error,8/23/2022 10:14:33 AM,VSS,8193,None,"Volume Shadow Copy Service error: Unexpected error calling routine CoCreateInstance.  hr = 0x8007045b, Systeem wordt afgesloten.
+. "
+Error,8/23/2022 10:14:33 AM,VSS,13,None,"Volume Shadow Copy Service information: The COM Server with CLSID {4e14fba2-2e22-11d1-9964-00c04fbbb345} and name CEventSystem cannot be started. [0x8007045b, Systeem wordt afgesloten.
+] "
+Error,8/23/2022 10:14:33 AM,VSS,8193,None,"Volume Shadow Copy Service error: Unexpected error calling routine CoCreateInstance.  hr = 0x8007045b, Systeem wordt afgesloten.
+. "
+Error,8/23/2022 10:14:33 AM,VSS,13,None,"Volume Shadow Copy Service information: The COM Server with CLSID {4e14fba2-2e22-11d1-9964-00c04fbbb345} and name CEventSystem cannot be started. [0x8007045b, Systeem wordt afgesloten.
+] "
+Error,8/21/2022 10:59:36 AM,Application Error,1000,(100),"Faulting application name: InDesign.exe, version: 16.4.0.55, time stamp: 0x6113d013
+Faulting module name: unknown, version: 0.0.0.0, time stamp: 0x00000000
+Exception code: 0xc0000005
+Fault offset: 0x00000218a8b54340
+Faulting process id: 0x8b4c
+Faulting application start time: 0x01d8b53b854d4a13
+Faulting application path: C:\Program Files\Adobe\Adobe InDesign 2021\InDesign.exe
+Faulting module path: unknown
+Report Id: e44cbd74-4b66-4b03-a8e4-8ac76d57c5d1
+Faulting package full name: 
+Faulting package-relative application ID: "
+Error,8/20/2022 11:45:58 PM,Firefox Default Browser Agent,12002,None,"The description for Event ID 12002 from source Firefox Default Browser Agent cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+0x80072EE2 in IsAgentRemoteDisabledInternal:68
+
+The message resource is present but the message was not found in the message table
+"
+Error,8/20/2022 11:45:58 PM,Firefox Default Browser Agent,0,None,The operation completed successfully.
+Error,8/19/2022 6:49:52 PM,Firefox Default Browser Agent,12007,None,"The description for Event ID 12007 from source Firefox Default Browser Agent cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+0x80072EE7 in IsAgentRemoteDisabledInternal:68
+
+The message resource is present but the message was not found in the message table
+"
+Error,8/19/2022 6:49:52 PM,Firefox Default Browser Agent,0,None,The operation completed successfully.
+Error,8/19/2022 11:04:44 AM,Microsoft-Windows-AppModel-State,12,None,Failure to write an application setting for package Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy. Error Code: -2147023878
+Error,8/17/2022 12:14:42 PM,Application Error,1000,(100),"Faulting application name: SearchApp.exe, version: 10.0.19041.1806, time stamp: 0xe2377848
+Faulting module name: dcomp.dll, version: 10.0.19041.1741, time stamp: 0x78903835
+Exception code: 0xc0000005
+Fault offset: 0x000000000004e883
+Faulting process id: 0x2ddc
+Faulting application start time: 0x01d8a75869f5f7d2
+Faulting application path: C:\windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+Faulting module path: C:\windows\SYSTEM32\dcomp.dll
+Report Id: 20464304-a59d-42df-8466-ec7e1c14ecfc
+Faulting package full name: Microsoft.Windows.Search_1.14.6.19041_neutral_neutral_cw5n1h2txyewy
+Faulting package-relative application ID: CortanaUI"
+Error,8/12/2022 7:07:35 PM,Firefox Default Browser Agent,12007,None,"The description for Event ID 12007 from source Firefox Default Browser Agent cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+0x80072EE7 in IsAgentRemoteDisabledInternal:68
+
+The message resource is present but the message was not found in the message table
+"
+Error,8/12/2022 7:07:35 PM,Firefox Default Browser Agent,0,None,The operation completed successfully.
+Error,8/7/2022 4:05:08 PM,Application Error,1000,(100),"Faulting application name: backgroundTaskHost.exe, version: 10.0.19041.546, time stamp: 0x1d3a15e7
+Faulting module name: KERNELBASE.dll, version: 10.0.19041.1826, time stamp: 0x299341e8
+Exception code: 0xc000027b
+Fault offset: 0x000000000010fb62
+Faulting process id: 0x7664
+Faulting application start time: 0x01d8aa5876b24669
+Faulting application path: C:\windows\system32\backgroundTaskHost.exe
+Faulting module path: C:\windows\System32\KERNELBASE.dll
+Report Id: 5a473287-79f1-48cc-ae28-2a0103d209f0
+Faulting package full name: AD2F1837.HPPrinterControl_137.1.291.0_x64__v10z8vjag6ke6
+Faulting package-relative application ID: AD2F1837.HPPrinterControl"
+Error,8/4/2022 8:42:41 PM,Firefox Default Browser Agent,12007,None,"The description for Event ID 12007 from source Firefox Default Browser Agent cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+0x80072EE7 in IsAgentRemoteDisabledInternal:68
+
+The message resource is present but the message was not found in the message table
+"
+Error,8/4/2022 8:42:41 PM,Firefox Default Browser Agent,0,None,The operation completed successfully.
+Error,8/3/2022 6:45:14 PM,Microsoft-Windows-User Profiles Service,1552,None,"User hive is loaded by another process (Registry Lock) Process name: C:\Windows\System32\svchost.exe, PID: 3476, ProfSvc PID: 1288."
+Error,8/3/2022 6:45:14 PM,Microsoft-Windows-User Profiles Service,1552,None,"User hive is loaded by another process (Registry Lock) Process name: C:\Program Files\Avast Software\Avast\aswToolsSvc.exe, PID: 5716, ProfSvc PID: 1288."
+Error,8/2/2022 9:21:41 AM,Application Error,1000,(100),"Faulting application name: omadmclient.exe, version: 10.0.19041.1766, time stamp: 0xad0c48a6
+Faulting module name: dmcsps.dll, version: 10.0.19041.1766, time stamp: 0xdfe5f14e
+Exception code: 0xc0000005
+Fault offset: 0x0000000000005f13
+Faulting process id: 0x1fcc
+Faulting application start time: 0x01d8a6073347e87d
+Faulting application path: C:\windows\system32\omadmclient.exe
+Faulting module path: C:\windows\System32\dmcsps.dll
+Report Id: 8d390b21-1367-4831-8bc5-7c1dbbaa5a27
+Faulting package full name: 
+Faulting package-relative application ID: "
+Error,7/31/2022 11:13:11 AM,Application Error,1000,(100),"Faulting application name: backgroundTaskHost.exe, version: 10.0.19041.546, time stamp: 0x1d3a15e7
+Faulting module name: KERNELBASE.dll, version: 10.0.19041.1826, time stamp: 0x299341e8
+Exception code: 0xc000027b
+Fault offset: 0x000000000010fb62
+Faulting process id: 0x291c
+Faulting application start time: 0x01d8a3f39bb323fe
+Faulting application path: C:\windows\system32\backgroundTaskHost.exe
+Faulting module path: C:\windows\System32\KERNELBASE.dll
+Report Id: 8efb4326-9ad3-4639-9a75-a47077b66792
+Faulting package full name: AD2F1837.HPPrinterControl_137.1.291.0_x64__v10z8vjag6ke6
+Faulting package-relative application ID: AD2F1837.HPPrinterControl"

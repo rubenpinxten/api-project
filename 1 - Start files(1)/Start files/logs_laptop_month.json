@@ -1,0 +1,11 @@
+{
+  "Microsoft-Windows-PerfNet": 3,
+  "Application Error": 6,
+  "MSOLAP$SQL_BRENT_P_M": 1,
+  "MSOLAP$SQL_BRENT_P": 1,
+  "SQLISPackage150": 2,
+  "Microsoft-Windows-User Profiles Service": 4,
+  "VSS": 8,
+  "Firefox Default Browser Agent": 8,
+  "Microsoft-Windows-AppModel-State": 1
+}
